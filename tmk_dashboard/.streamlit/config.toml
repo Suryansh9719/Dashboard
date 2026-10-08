@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+primaryColor = "#0f766e"
+backgroundColor = "#e9eef4"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#0b1f33"
+font = "sans serif"
+
+[server]
+headless = true
+
+[client]
+toolbarMode = "viewer"
+# We render our own left-nav page links in apply_theme / render_sidebar_chrome
+showSidebarNavigation = false

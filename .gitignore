@@ -1,0 +1,14 @@
+# graphify-axet
+.graphify/
+
+# Keep local HTML dashboards out of GitHub
+*.html
+
+# IDE / local packages
+.cursor/
+*.zip
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
